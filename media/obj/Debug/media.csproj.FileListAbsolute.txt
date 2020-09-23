@@ -1,0 +1,20 @@
+C:\Users\Sydney\Documents\programaçao\media\media\bin\Debug\media.exe.config
+C:\Users\Sydney\Documents\programaçao\media\media\bin\Debug\media.exe
+C:\Users\Sydney\Documents\programaçao\media\media\bin\Debug\media.pdb
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.Form1.resources
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.exe
+C:\Users\Sydney\Documents\programaçao\media\media\obj\Debug\media.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\bin\Debug\media.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\bin\Debug\media.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\bin\Debug\media.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.Form1.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\media\media\obj\Debug\media.pdb
